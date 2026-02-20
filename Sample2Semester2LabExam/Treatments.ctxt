@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Treatments
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Treatments\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Treatments()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=void\ testToString()
+comment2.params=treatmentName\ basicCosts\ addedCosts\ xRay\ fullCosts
+comment2.target=Treatments(java.lang.String,\ double,\ double,\ boolean,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getTreatmentName()
+comment4.params=treatmentName
+comment4.target=void\ setTreatmentName(java.lang.String)
+comment5.params=
+comment5.target=void\ xRayValue()
+comment6.params=
+comment6.target=boolean\ getXRay()
+comment7.params=xRay
+comment7.target=void\ setXRay(boolean)
+comment8.params=
+comment8.target=double\ getFullCosts()
+comment9.params=fullCosts
+comment9.target=void\ setFullCosts(double)
+numComments=12

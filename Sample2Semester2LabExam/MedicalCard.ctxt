@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MedicalCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MedicalCard\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MedicalCard()
+comment2.params=name\ age\ treatment\ numberOfTreatments\ medicalCardNumber
+comment2.target=MedicalCard(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ testToString()
+numComments=5
